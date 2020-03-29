@@ -5,5 +5,6 @@ A preety easy note-to-do-app
 . Beautiful but yet Simple UI
 </br>
 . CRUD functionality
+</br>
 . Easy to handle
 
