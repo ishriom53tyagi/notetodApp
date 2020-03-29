@@ -8,9 +8,9 @@ A preety easy note-to-do-app
 </br>
 . Easy to handle
 
-#Installation
+# Installation
 
 .Clone the repository
 </br>
 
-``` Some git command here ```
+``` git clone https://github.com/ishriom53tyagi/notetodApp.git ```
