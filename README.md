@@ -1,2 +1,2 @@
 # Django- Note-to-do-App
-A simple django todoapp
+A preety easy note-to-do-app
