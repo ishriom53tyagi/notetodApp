@@ -10,7 +10,19 @@ A preety easy note-to-do-app
 
 # Installation
 
-.Clone the repository
+. Clone the repository
 </br>
 
 ``` git clone https://github.com/ishriom53tyagi/notetodApp.git ```
+
+. Install Dependencies
+
+``` cd notetodApp ```
+
+. Run Django Migration
+
+``` python manage.py migrate ```
+
+.Run Django Server
+
+``` python manage.py runserver 8100 ```
