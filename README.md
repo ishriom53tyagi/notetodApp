@@ -8,3 +8,9 @@ A preety easy note-to-do-app
 </br>
 . Easy to handle
 
+#Installation
+
+.Clone the repository
+</br>
+./ git clone
+
