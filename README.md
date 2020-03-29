@@ -12,5 +12,5 @@ A preety easy note-to-do-app
 
 .Clone the repository
 </br>
-./git clone
 
+``` Some git command here ```
